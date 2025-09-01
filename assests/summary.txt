@@ -1,0 +1,64 @@
+Contact
+mayanktalan98@gmail.com
+www.linkedin.com/in/
+mynkchaudhry (LinkedIn)
+Top Skills
+Chatbots
+Knowledge Engineering
+Retrieval-Augmented Generation
+(RAG)
+Certifications
+AI Agents Fundamentals
+BFF Hackathon
+Google Cloud
+Mayank Chaudhary
+AI Engineer @jellyfishtechnologies
+Noida, Uttar Pradesh, India
+Summary
+B.Tech student from St. Andrews Institute of Technology and
+Management, I am driven by an unwavering passion to learn
+and innovate in the realms of #AI and #ML, encompassing
+#DeepLearning, #ComputerVision, #Chatbots, #GenerativeAI, and
+machine learning algorithms.
+The #techstack I am well-versed with includes #LLMs, #RAG,
+#HuggingFace, #Computervision, #NLP, #Python, and #SQL.
+I have attended multiple #hackathons and presentations, including
+the #BFFHackathon, during which I contributed to developing a
+chatbot that provides mental health support and resources.
+As a #SoftwareEngineerTrainee at #JellyfishTechnologies, Noida,
+I am currently seeking a skill-driven organization that offers a
+competitive environment, unparalleled work culture, and lifelong
+memories to cherish.
+Experience
+Jellyfish Technologies 
+1 year 8 months
+AI Engineer
+August 2024 - Present (1 year 2 months)
+Noida, Uttar Pradesh, India
+As an AI Engineer at Jellyfish Technologies, I specialize in developing and
+fine-tuning large language models (LLMs) to optimize AI-driven applications.
+My expertise includes instruction fine-tuning, domain adaptation, retrieval-
+augmented generation (RAG), and deploying AI models for real-world use
+cases.
+I work with a diverse technology stack, including Neo4j, MCP server, OCR,
+vector databases, FastAPI, and MongoDB, to build scalable and efficient AI
+  Page 1 of 2   
+systems. I also focus on data preparation, model evaluation, and pushing
+models/datasets to Hugging Face for seamless deployment and sharing.
+Beyond technical development, I collaborate closely with clients to understand
+their requirements, conduct research to identify the best AI solutions, and
+assist in pricing strategies. I help businesses integrate AI into their workflows
+by providing insights on feasibility, implementation, and optimization.
+Additionally, I play a key role in preparing high-quality datasets for model
+training, ensuring data integrity, and enhancing model performance. My work
+drives business innovation by leveraging cutting-edge AI/ML techniques
+to automate processes, improve decision-making, and enhance user
+experiences.
+Software engineer Trainee
+February 2024 - August 2024 (7 months)
+Noida, Uttar Pradesh, India
+Education
+St. Andrews Institute of Technology & Management
+Bachelor of Technology - BTech, Artificial intelligence and machine learning
+ · (2020 - 2024)
+  Page 2 of 2
