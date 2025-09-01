@@ -7,19 +7,17 @@ Documentation and learning materials for **The Complete Agentic AI Engineering C
 - `creations/Week0_Works/` - Initial learning materials and notebooks
   - `theory.ipynb` - Theoretical concepts and explanations
   - `1.ipynb` - Practical exercises and implementations
-  - `2.ipynb` - AI Battle Royale: Multi-model comparison notebook with engaging documentation
-- `assests/` - Images and visual resources
-  - `day.png` - Header image for notebooks
+  - `2.ipynb` - AI Battle Royale: Multi-model comparison notebook
+  - `3.ipynb` - Personal AI Assistant with quality control system
+- `assests/` - Images, PDFs, and supporting files
 
 ## Featured Projects
 
 ### 🤖 AI Battle Royale (`2.ipynb`)
-An entertaining notebook that pits multiple AI models against each other in an intellectual showdown! Features:
-- **GPT-4.1 Nano vs Gemini 2.0 Flash vs Llama 3.3 70B** comparison
-- Beautiful markdown documentation with funny headings and emojis
-- Automated AI judging system using O3-Mini
-- Comprehensive code comments and explanations
-- Visual storytelling approach to technical concepts
+Multi-model comparison system with GPT-4.1 Nano, Gemini 2.0 Flash, and Llama 3.3 70B. Features automated AI judging and engaging documentation.
+
+### 💼 Personal AI Assistant (`3.ipynb`)
+Professional AI assistant with PDF knowledge extraction, quality control evaluation, and Gradio web interface. Includes multi-model architecture for reliable representation.
 
 ## Getting Started
 
